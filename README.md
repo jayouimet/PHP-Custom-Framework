@@ -1,5 +1,5 @@
-# INF4533_Blog
-Repository for a blog for a school project
+# PHP-Custom-Framework
+Repository for a school project. The goal was to make a website in raw PHP but that was boring so we went further and made a framework for it.
 
 ## Initial setup
 Follow the steps bellow to setup the server
